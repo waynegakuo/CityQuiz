@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kenya Cities Quiz</string>
+    <string name="question_1">1. Which is the famously known as the land of Salt and Spices?</string>
+    <string name="question_2">2. Which is the capital city of Kenya?</string>
+    <string name="question_3">3. Select two cities found along the coast line of Kenya</string>
+    <string name="question_4">4. Which city is famously known to be the home of the \'Crying Stone\'?</string>
+    <string name="question_5">5. Which city is known as the \'Land of Champions\'?</string>
+    <string name="question_6">6. Which city is famously known for its fishing activities?</string>
+    <string name="question_7">7. Write down the name of the village famously known to be the birthplace of Barrack Obama\'s father</string>
+</resources>
